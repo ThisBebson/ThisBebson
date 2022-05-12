@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThisBebson
-- 👀 I’m interested in coding and i started in november 2021 learning coding
-- 🌱 I’m currently learning python, c++, javascript, sql, css, html
-- 💞️ I’m looking to collaborate on game cheese creators
+- 👀 I’m interested in coding and i started in may 2022 learning flutter
+- 🌱 I’m currently learning  c++, and things for flutter
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me - email, pv, or discord Bebson#2237
 
 <!---
